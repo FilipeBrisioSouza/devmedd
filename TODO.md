@@ -1,0 +1,1 @@
+- [x] Change the development server port from 3001 to 3000 in package.json
