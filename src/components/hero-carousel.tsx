@@ -14,22 +14,22 @@ import { useRef } from "react"
 const slides = [
   {
     src: "/images/FOTO AMPARO.webp",
-    alt: "Atendimento humanizado",
+    alt: "Atendimento humanizado.",
     text: "Saúde com cuidado, inovação e proximidade que você merece.",
   },
   {
     src: "/images/FOTOS-TCC.webp",
-    alt: "Tecnologia na saúde",
+    alt: "Tecnologia na saúde.",
     text: "Tecnologia avançada para transformar seu bem-estar em prioridade.",
   },
   {
     src: "/images/FOTOS-TCC2.jpeg",
-    alt: "Equipe DevMed",
+    alt: "Equipe DevMed.",
     text: "Uma equipe dedicada que une conhecimento e empatia para cuidar de você.",
   },
   {
     src: "/images/Fachada.webp",
-    alt: "Equipe DevMed",
+    alt: "Equipe DevMed.",
     text: "DevMed: excelência em saúde, sempre ao seu lado.",
   },
 ]
